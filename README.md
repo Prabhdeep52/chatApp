@@ -1,6 +1,6 @@
 # chatapp
 
-A chat based app where you can chat with your group of friends built using flutter and firebase firestore . 
+A chat based app where you can chat with your group of friends built using flutter and firebase firestore which uses firebase authentication , validation , real time firebase database 
 
 ## Getting Started
 
