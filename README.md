@@ -1,8 +1,9 @@
 # chatapp
 
-A new Flutter project.
+A chat based app where you can chat with your group of friends built using flutter and firebase firestore which uses firebase authentication , validation , real time firebase database 
 
 ## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
